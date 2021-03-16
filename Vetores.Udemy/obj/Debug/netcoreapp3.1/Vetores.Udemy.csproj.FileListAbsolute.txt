@@ -1,0 +1,13 @@
+C:\Users\watan\Vetores\Vetores.Udemy\bin\Debug\netcoreapp3.1\Vetores.Udemy.exe
+C:\Users\watan\Vetores\Vetores.Udemy\bin\Debug\netcoreapp3.1\Vetores.Udemy.deps.json
+C:\Users\watan\Vetores\Vetores.Udemy\bin\Debug\netcoreapp3.1\Vetores.Udemy.runtimeconfig.json
+C:\Users\watan\Vetores\Vetores.Udemy\bin\Debug\netcoreapp3.1\Vetores.Udemy.runtimeconfig.dev.json
+C:\Users\watan\Vetores\Vetores.Udemy\bin\Debug\netcoreapp3.1\Vetores.Udemy.dll
+C:\Users\watan\Vetores\Vetores.Udemy\bin\Debug\netcoreapp3.1\Vetores.Udemy.pdb
+C:\Users\watan\Vetores\Vetores.Udemy\obj\Debug\netcoreapp3.1\Vetores.Udemy.csprojAssemblyReference.cache
+C:\Users\watan\Vetores\Vetores.Udemy\obj\Debug\netcoreapp3.1\Vetores.Udemy.AssemblyInfoInputs.cache
+C:\Users\watan\Vetores\Vetores.Udemy\obj\Debug\netcoreapp3.1\Vetores.Udemy.AssemblyInfo.cs
+C:\Users\watan\Vetores\Vetores.Udemy\obj\Debug\netcoreapp3.1\Vetores.Udemy.csproj.CoreCompileInputs.cache
+C:\Users\watan\Vetores\Vetores.Udemy\obj\Debug\netcoreapp3.1\Vetores.Udemy.dll
+C:\Users\watan\Vetores\Vetores.Udemy\obj\Debug\netcoreapp3.1\Vetores.Udemy.pdb
+C:\Users\watan\Vetores\Vetores.Udemy\obj\Debug\netcoreapp3.1\Vetores.Udemy.genruntimeconfig.cache
